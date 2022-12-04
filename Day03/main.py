@@ -1,5 +1,3 @@
-import os
-os.chdir('/Users/matteocanducci/Documents/Advent of Code 2022/Day03')
 import numpy as np
 
 with open('input_data.txt','r') as f:
