@@ -1,5 +1,3 @@
-import os
-os.chdir('/Users/matteocanducci/Documents/Advent of Code 2022/Day08')
 import numpy as np
 
 def is_visible(jline,jdigit,trees):
