@@ -1,7 +1,3 @@
-import os
-os.chdir('/Users/matteocanducci/Documents/Advent of Code 2022/Day06')
-import numpy as np
-
 def has_repetitions(s):
     flag = False
     ind = 0
